@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "goods-list": "/components/goods-list/goods-list",
+    "entrance": "./entrance/entrance",
+    "banner":"./banner/banner",
+    "goods-card":"../../components/goods-card/goods-card"
+
+  },
+  "navigationBarTitleText": "聪明花坊"
+}
